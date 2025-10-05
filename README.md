@@ -86,7 +86,7 @@ src/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/oamjeel/flipnmatch.git
+git clone https://github.com/iamjeel/flipnmatch.git
 cd flip-and-match
 ```
 
